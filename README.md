@@ -2,6 +2,8 @@
 
 Bootstrap 3 Contact Form with Google's reCaptcha
 
+credit to jonmbake for the source code!
+
 A simple bootstrap 3 contact form using [Google's reCAPTCHA](https://developers.google.com/recaptcha/).  Submitted messages are sent to a specified email address using SMTP with support for SSL or TLS transport.
 
 ## Version History
